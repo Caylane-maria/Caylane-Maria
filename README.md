@@ -9,12 +9,3 @@
 </div>
 
 ---
-
-## 🌸 Sobre mim
-
-```text
-💻 Explorando o mundo da programação
-🎮 Interessada em desenvolvimento de jogos
-🎨 Gosto de criar e experimentar ideias
-🌱 Sempre aprendendo algo novo
-🇧🇷 Brasil
