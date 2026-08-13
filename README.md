@@ -8,7 +8,7 @@
 ### 🎮 Game Developer
 ### 🎨 Criatividade + Código
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caylane-maria)
+[![GitHub](https://img.shields.io/badge/GitHub-Caylane--maria-181717?style=for-the-badge&logo=github)](https://github.com/Caylane-maria)
 
 </div>
 
@@ -17,12 +17,10 @@
 ## 🌙 Sobre mim
 
 > 🇧🇷 Brasil  
-> 💻 Explorando programação  
+> 💻 Explorando o mundo da programação  
 > 🎮 Criando jogos e experiências  
-> 🎨 Gosto de transformar ideias em projetos  
+> 🎨 Transformando ideias em projetos  
 > 🌱 Sempre aprendendo algo novo  
-
-<br>
 
 <div align="center">
 
@@ -36,41 +34,43 @@
 
 <div align="center">
 
-### 🚧 PROJETOS EM DESENVOLVIMENTO 🚧
+### ✦ PROJETOS EM DESENVOLVIMENTO ✦
 
-*Em breve, meus jogos aparecerão aqui...*
-
-</div>
-
-<br>
-
-<!--
-Quando seus jogos estiverem prontos, você pode colocar assim:
-
-<a href="LINK_DO_JOGO">
-<img src="IMAGEM_DO_JOGO" width="400">
-</a>
--->
-
----
-
-# 💻 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+🎮 Em breve, meus jogos aparecerão aqui!
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🛠️ Habilidades
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Caylane-maria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+### 💻 Programação
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caylane-maria&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,cs&theme=dark" />
+
+<br><br>
+
+### 🎮 Game Development
+
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+
+</div>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Caylane-maria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=pt-br" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caylane-maria&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="48%"/>
 
 </div>
 
@@ -80,13 +80,15 @@ Quando seus jogos estiverem prontos, você pode colocar assim:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caylane-maria&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caylane-maria&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 
 </div>
 
 ---
 
 ## ✨ Atualmente
+
+<div align="center">
 
 ```text
 🎮 Criando jogos
